@@ -1,2 +1,8 @@
 # Python-Data-Science-and-Machine-Learning-Bootcamp
 Repo for Python Data Science and Machine Learning Bootcamp
+
+13 - Converting categorical data to numeric with get_dummies/dealing with nulls
+14 - Scaling of data for normalization
+15 - 
+16 - Grid search
+17 - Making artificial data with SKLearn w/ make_blobs
